@@ -1,0 +1,79 @@
+@media (max-width: 450px){
+
+    .container {
+        background: url(../images/bg-mobile.svg) no-repeat;
+        display: flex;
+        flex-direction: column;
+        background-size: 100%;
+    }
+
+    .container .header .logo {
+        display: flex;
+        width: 130px;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+
+    .container .mockups img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 250px;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+
+    .container .mockups{
+        margin-bottom: 30px;
+    }
+
+    .container .info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 8px 35px;
+    }
+
+    .container .info h1{
+        text-align: center;
+        margin: 8px 0px;
+        font-size: 24px;
+    }
+
+    .container .info p{
+        text-align: center;
+        margin: 10px 4px;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    .container .info .register .button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        width: 200px;
+    }
+
+    .container .footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        margin-top: 50px;
+    }
+}
+
+@media (max-height: 820px){
+    
+    .container .header .logo {
+        margin-top: 40px;
+    }
+
+    .container .mockups{
+        margin-bottom: 20px;
+    }
+}
