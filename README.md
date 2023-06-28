@@ -7,7 +7,6 @@ Solução para [Huddle landing page with single introductory section challenge o
 - [Visão geral](#Visão-geral)
   - [O Desafio](#O-Desafio)
   - [Screenshots](#screenshots)
-  - [Links](#links)
 - [Processo](#processo)
   - [Projeto realizado com](#Projeto-realizado-com)
   - [O que aprendi](#O-que-aprendi)
@@ -34,11 +33,6 @@ Screenshot dos layouts finais.
 
 ![](./src/images/screenshot%20-%20mobile.png)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Processo
 
