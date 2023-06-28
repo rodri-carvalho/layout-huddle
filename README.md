@@ -29,10 +29,9 @@ Alguns elementos clicáveis são interativos (hover).
 
 Screenshot dos layouts finais.
 
-Desktop
 ![](./src/images/screenshot%20-%20desktop.png)
 
-Mobile
+
 ![](./src/images/screenshot%20-%20mobile.png)
 
 
