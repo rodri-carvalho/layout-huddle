@@ -2,7 +2,7 @@
 
 Solução para [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). 
 
-## Table of contents
+## Tabela de conteúdos
 
 - [Visão geral](#Visão-geral)
   - [O Desafio](#O-Desafio)
@@ -13,7 +13,6 @@ Solução para [Huddle landing page with single introductory section challenge o
   - [O que aprendi](#O-que-aprendi)
 - [Autor](#autor)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Visão geral
 
